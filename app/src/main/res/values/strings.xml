@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dangun</string>
+    <string name="main_btm_nav_home_title">홈</string>
+    <string name="main_btm_nav_city">동네생활</string>
+    <string name="main_btm_nav_location">내 근처</string>
+    <string name="main_btm_nav_chat">채팅</string>
+    <string name="main_btm_nav_my_carrot">나의 당근</string>
+</resources>
